@@ -2378,4 +2378,56 @@ error: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctool
 error: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/otool-classic: can't map file: ./.nvm/.cache/src/node-v14.21.3/files/tools/macos-installer/productbuild/Resources/en.lproj (Invalid argument)
 error: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/otool-classic: can't map file: ./.nvm/.cache/src/node-v14.21.3/files/tools/configure.d (Invalid argument)
 xargs: unterminated quote
+
+pingku@PingKudeMBP ~ % env
+TERM_SESSION_ID=BF497F3B-D518-445A-9303-6F3ADDA55D7B
+SSH_AUTH_SOCK=/private/tmp/com.apple.launchd.qy6YDKrITI/Listeners
+DATAGRIP_VM_OPTIONS=/Users/pingku/Documents/idea/jetbra/vmoptions/datagrip.vmoptions
+DEVECOSTUDIO_VM_OPTIONS=/Users/pingku/Documents/idea/jetbra/vmoptions/devecostudio.vmoptions
+WEBIDE_VM_OPTIONS=/Users/pingku/Documents/idea/jetbra/vmoptions/webide.vmoptions
+PHPSTORM_VM_OPTIONS=/Users/pingku/Documents/idea/jetbra/vmoptions/phpstorm.vmoptions
+RIDER_VM_OPTIONS=/Users/pingku/Documents/idea/jetbra/vmoptions/rider.vmoptions
+GATEWAY_VM_OPTIONS=/Users/pingku/Documents/idea/jetbra/vmoptions/gateway.vmoptions
+GOLAND_VM_OPTIONS=/Users/pingku/Documents/idea/jetbra/vmoptions/goland.vmoptions
+CLION_VM_OPTIONS=/Users/pingku/Documents/idea/jetbra/vmoptions/clion.vmoptions
+XPC_FLAGS=0x0
+__CFBundleIdentifier=com.apple.Terminal
+STUDIO_VM_OPTIONS=/Users/pingku/Documents/idea/jetbra/vmoptions/studio.vmoptions
+JETBRAINS_CLIENT_VM_OPTIONS=/Users/pingku/Documents/idea/jetbra/vmoptions/jetbrains_client.vmoptions
+PYCHARM_VM_OPTIONS=/Users/pingku/Documents/idea/jetbra/vmoptions/pycharm.vmoptions
+TERM_PROGRAM=Apple_Terminal
+TERM_PROGRAM_VERSION=447
+RUBYMINE_VM_OPTIONS=/Users/pingku/Documents/idea/jetbra/vmoptions/rubymine.vmoptions
+WEBSTORM_VM_OPTIONS=/Users/pingku/Documents/idea/jetbra/vmoptions/webstorm.vmoptions
+APPCODE_VM_OPTIONS=/Users/pingku/Documents/idea/jetbra/vmoptions/appcode.vmoptions
+JETBRAINSCLIENT_VM_OPTIONS=/Users/pingku/Documents/idea/jetbra/vmoptions/jetbrainsclient.vmoptions
+TERM=xterm-256color
+TMPDIR=/var/folders/tl/w6j06j6j3j9g_zct97wmn5ch0000gn/T/
+XPC_SERVICE_NAME=0
+DATASPELL_VM_OPTIONS=/Users/pingku/Documents/idea/jetbra/vmoptions/dataspell.vmoptions
+IDEA_VM_OPTIONS=/Users/pingku/Documents/idea/jetbra/vmoptions/idea.vmoptions
+SHELL=/bin/zsh
+HOME=/Users/pingku
+LOGNAME=pingku
+USER=pingku
+PATH=/Users/pingku/.nvm/versions/node/v14.21.3/bin:/Applications/IntelliJ IDEA.app/Contents/plugins/maven/lib/maven3/bin:/opt/homebrew/bin:/opt/homebrew/sbin:/usr/local/bin:/System/Cryptexes/App/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Library/Apple/usr/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin:/bin
+SHLVL=1
+PWD=/Users/pingku
+OLDPWD=/Users/pingku
+HOMEBREW_PREFIX=/opt/homebrew
+HOMEBREW_CELLAR=/opt/homebrew/Cellar
+HOMEBREW_REPOSITORY=/opt/homebrew
+MANPATH=/Users/pingku/.nvm/versions/node/v14.21.3/share/man:/opt/homebrew/share/man::
+INFOPATH=/opt/homebrew/share/info:
+MAVEN_HOME=/Applications/IntelliJ IDEA.app/Contents/plugins/maven/lib/maven3
+JAVA_HOME=/Library/Java/JavaVirtualMachines/jdk-1.8.jdk/Contents/Home
+JRE_HOME=/jre
+CLASSPATH=/lib/tools.jar:/lib/dt.jar:.
+NVM_DIR=/Users/pingku/.nvm
+NVM_CD_FLAGS=-q
+NVM_BIN=/Users/pingku/.nvm/versions/node/v14.21.3/bin
+NVM_INC=/Users/pingku/.nvm/versions/node/v14.21.3/include/node
+LANG=zh_CN.UTF-8
+_=/usr/bin/env
 pingku@PingKudeMBP ~ % 
+
